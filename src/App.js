@@ -10,7 +10,7 @@ function App() {
 				<p>Esta es mi web</p>
 				<a
 					className="App-link"
-					href="https://reactjs.org"
+					href="https://netflix.es"
 					target="_blank"
 					rel="noopener noreferrer"
 				>

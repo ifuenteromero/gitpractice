@@ -14,7 +14,7 @@ function App() {
 					target="_blank"
 					rel="noopener noreferrer"
 				>
-					Irene
+					Irene en la segunda rama
 				</a>
 			</header>
 		</div>

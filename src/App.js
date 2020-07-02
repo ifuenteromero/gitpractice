@@ -14,7 +14,7 @@ function App() {
 					target="_blank"
 					rel="noopener noreferrer"
 				>
-					Irene
+					Irene solucionando un problema de git
 				</a>
 			</header>
 		</div>
